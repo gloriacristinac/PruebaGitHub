@@ -1,9 +1,11 @@
 prueba
 
+<<<<<<< HEAD
 cambio mio
 
 Cambio juana
-
+=======
+cambio mio
 
 cambio gloria
-
+>>>>>>> cambio gloria
